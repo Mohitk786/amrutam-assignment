@@ -19,7 +19,7 @@ const Footer = () => {
               Amrutam Pharmaceuticals Pvt Ltd., chitragupt ganj, Nai Sadak,
               Lashkar, Gwalior - 474001
               <br /> <br />
-              +91 9713171999
+              +91 123456789
             </p>
             <div className="flex flex-wrap gap-1 md:gap-2">
               <div className="p-2 md:p-3 bg-[#3A643B] rounded-full">
