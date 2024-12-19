@@ -2,4 +2,4 @@
 
 - Features of Amrutam Pharmaceuticals 
 
-## [ Live link:](https://amrutam-pharmaceuticals-task.vercel.app/)
+## [ Live link:](https://amrutam-assignment-ten.vercel.app/)
